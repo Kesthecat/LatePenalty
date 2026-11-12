@@ -39,8 +39,8 @@ The tests should pass. There are no dependencies to install.
 
 | File | What it is |
 |---|---|
-| [`GRADE-412.md`](GRADE-412.md) | The Jira ticket. **Start here.** |
-| [`gradebook-late-penalty/`](gradebook-late-penalty/) | The service the ticket is about: code, tests, and the data Support attached to the ticket. |
+| [`GRADE-412.md`](PenaltyProblem/GRADE-412.md) | The Jira ticket. **Start here.** |
+| [`gradebook-late-penalty/`](PenaltyProblem/gradebook-late-penalty) | The service the ticket is about: code, tests, and the data Support attached to the ticket. |
 
 ### How it works
 
