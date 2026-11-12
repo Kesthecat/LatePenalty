@@ -1,0 +1,17 @@
+{
+  "_note": "Exported by Support from the teacher's gradebook for GRADE-412",
+  "school": "Lone Star Middle School (Texas, US)",
+  "assignment": {
+    "id": "ASN-7781",
+    "title": "Unit 4 Persuasive Essay",
+    "dueDate": "2026-10-14",
+    "schoolTimezone": "America/Chicago"
+  },
+  "submissions": [
+    { "student": "Ava M.",   "submittedAt": "2026-10-14T16:40:00-05:00", "rawScore": 92, "finalScore": 92 },
+    { "student": "Ben T.",   "submittedAt": "2026-10-14T19:05:00-05:00", "rawScore": 88, "finalScore": 79 },
+    { "student": "Chloe R.", "submittedAt": "2026-10-14T21:30:00-05:00", "rawScore": 75, "finalScore": 68 },
+    { "student": "Diego S.", "submittedAt": "2026-10-15T08:10:00-05:00", "rawScore": 81, "finalScore": 73 },
+    { "student": "Ella K.",  "submittedAt": "2026-10-14T23:59:00-05:00", "rawScore": 95, "finalScore": 86 }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "name": "gradebook-late-penalty",
+  "version": "1.4.2",
+  "private": true,
+  "description": "Late-submission penalty calculation for the Gradebook service",
+  "scripts": {
+    "test": "node --test"
+  },
+  "engines": { "node": ">=18" }
+}
